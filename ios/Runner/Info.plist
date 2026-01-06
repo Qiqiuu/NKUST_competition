@@ -45,5 +45,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>我們需要相簿權限來上傳圖片進行辨識</string>
+	<key>NSCameraUsageDescription</key>
+	<string>我們需要相機權限來拍照進行辨識</string>
 </dict>
 </plist>

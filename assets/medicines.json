@@ -1,0 +1,236 @@
+{
+    "medicines": [
+        {
+            "product_name": "Panadol",
+            "scientific_name": "Acetaminophen",
+            "uses": [
+                "解熱",
+                "鎮痛"
+            ],
+            "sideEffects": [
+                "發疹",
+                "發紅",
+                "噁心",
+                "嘔吐",
+                "食慾不振",
+                "頭暈",
+                "耳鳴"
+            ],
+            "contraindications": [
+                "曾因本藥成分引起過敏反應者",
+                "3歲以下兒童",
+                "成人連續服用超過7天者",
+                "12歲以下兒童連續服用超過3天者",
+                "肝臟疾病患者",
+                "孕婦、可能懷孕及哺乳婦女",
+                "同時服用其他含有乙醯氨酚成分藥品者"
+            ]
+        },
+        {
+            "product_name": "Harnalidge",
+            "scientific_name": "Tamsulosin",
+            "uses":[
+                "良性前列腺肥大症所伴隨的下泌尿道症狀"
+            ],
+            "sideEffects": [
+                "頭暈",
+                "射精障礙",
+                "姿勢性低血壓",
+                "頭痛",
+                "胃部不適感"
+            ],
+            "contraindications": [
+                "對Tamsulosin hydrochloride或對本藥賦形劑過敏者",
+                "嚴重肝功能不全患者",
+                "姿勢低血壓患者"
+            ]
+        },
+        {
+            "product_name": "URIEF F.C. 8MG",
+            "scientific_name": "Silodosin",
+            "uses":[
+                "良性前列腺肥大症所伴隨的排尿障礙"
+            ],
+            "sideEffects": [
+                "射精障礙",
+                "口渴",
+                "下痢",
+                "軟便",
+                "起立時頭暈"
+            ],
+            "contraindications": [
+                "對本藥成分過敏者",
+                "重度腎功能不全者",
+                "重度肝功能不全者",
+                "與強效CYP3A4抑制劑併用者"
+            ]
+        },
+        {
+            "product_name": "DOXABEN XL 4MG",
+            "scientific_name": "Doxazosin",
+            "uses":[
+                "良性前列腺肥大",
+                "高血壓"
+            ],
+            "sideEffects": [
+                "姿勢非異常性頭昏",
+                "疲勞",
+                "暈眩",
+                "頭痛",
+                "水腫",
+                "虛弱"
+            ],
+            "contraindications": [
+                "對quinazoline、doxazosin或任一種非活性成分過敏者"
+            ]
+        },
+        {
+            "product_name": "Lafuzo XL-10mg",
+            "scientific_name": "Alfuzosin",
+            "uses":[
+                "良性前列腺肥大"
+            ],
+            "sideEffects": [
+                "暈眩",
+                "心跳過速",
+                "姿勢性低血壓",
+                "頭痛",
+                "口乾",
+                "噁心",
+                "嘔吐",
+                "腹瀉",
+                "皮膚疹",
+                "陽痿"
+            ],
+            "contraindications": [
+                "對alfuzosin或其他quinazolines過敏者",
+                "腸阻塞患者"
+            ]
+        },
+        {
+            "product_name": "Avodart 0.5mg",
+            "scientific_name": "Dutasteride",
+            "uses":[
+                "攝護腺肥大"
+            ],
+            "sideEffects": [
+                "輕度勃起不能",
+                "性欲降低"
+            ],
+            "contraindications": [
+                "對dutasteride、其他5-reductase抑制劑或製劑中其他任何一種成分過敏者",
+                "婦女及兒童"
+            ]
+        },
+        {
+            "product_name": "PROPECIA 1MG",
+            "scientific_name": "Finasteride",
+            "uses":[
+                "雄性禿"
+            ],
+            "sideEffects": [
+                "性欲減低",
+                "勃起功能障礙",
+                "射精障礙",
+                "胸部觸痛及脹大",
+                "皮疹",
+                "搔癢",
+                "尋麻疹",
+                "唇部與臉部腫脹",
+                "睪丸疼痛"
+            ],
+            "contraindications": [
+                "兒童病患或婦女",
+                "肝功能異常患者",
+                "懷孕或可能懷孕的婦女"
+            ]
+        },
+        {
+            "product_name": "DETRUSITOL SR 4MG",
+            "scientific_name": "Tolterodine",
+            "uses":[
+                "伴有急尿，頻尿或急迫性尿失禁症狀的膀胱過動症"
+            ],
+            "sideEffects": [
+                "口乾",
+                "消化不良",
+                "減少淚液分泌"
+            ],
+            "contraindications": [
+                "對tolterodine或本品之賦形劑過敏者",
+                "尿液滯留患者",
+                "未控制的狹角性青光眼患者",
+                "胃腸道運動力減少之危險群",
+                "腎臟功能損傷患者",
+                "肝臟受損患者",
+                "重症肌無力症患者"
+            ]
+        },
+        {
+            "product_name": "VESICARE 5MG",
+            "scientific_name": "Solifenacin",
+            "uses":[
+                "膀胱過動症病人之急迫性尿失禁、頻尿、尿急"
+            ],
+            "sideEffects": [
+                "口乾",
+                "便秘",
+                "噁心",
+                "消化不良"
+            ],
+            "contraindications": [
+                "對本藥成分過敏者",
+                "尿液滯留患者",
+                "胃滯留患者",
+                "未控制的隅角性青光眼患者",
+                "洗腎患者",
+                "重度腎功能障礙患者",
+                "中度肝功能障礙患者"
+            ]
+        },
+        {
+            "product_name": "DIUTROPAN 2.5MG",
+            "scientific_name": "Oxybutynin",
+            "uses":[
+                "尿失禁",
+                "頻尿",
+                "尿急"
+            ],
+            "sideEffects": [
+                "困倦",
+                "便秘",
+                "口乾",
+                "頭暈",
+                "潮紅"
+            ],
+            "contraindications": [
+                "青光眼患者",
+                "胃腸道阻塞患者",
+                "麻痺性腸塞絞痛患者",
+                "潰瘍性結腸炎患者",
+                "重症肌無力症患者",
+                "尿道阻塞患者",
+                "心血管不適引起的急性出血患者"
+            ]
+        },
+        {
+            "product_name": "BETMIGA 50MG",
+            "scientific_name": "Mirabegron",
+            "uses":[
+                "伴有急尿、頻尿或急迫性尿失禁症狀的膀胱過動症"
+            ],
+            "sideEffects": [
+                "頭痛",
+                "便秘",
+                "噁心",
+                "高血壓",
+                "腹瀉",
+                "頭暈",
+                "心搏過速"
+            ],
+            "contraindications": [
+                "對mirabegron過敏或錠劑中任何成分過敏者"
+            ]
+        }
+    ]
+}
